@@ -98,13 +98,11 @@
     padding-top: 15px;
     min-height: 55px;
     background-color: #d5d5d5;
-    text-align: center;
     letter-spacing: 15px;
 }
 
 .footer a{
-    letter-spacing: 31px;
-    color: rgb(45, 40, 40);
+    color: rgb(43, 43, 43)
 }
 
 .footer a:hover{
